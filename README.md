@@ -17,10 +17,6 @@ I'm a **Computer Science and Software Engineering** student at **Bedfordshire Un
 ## 📫 How to Reach Me
 - **Email**: Dgallalla@gmail.com
 - **LinkedIn**: www.linkedin.com/in/deyan-kavindu-4aa659283
-
-## ⚡ Fun Fact
-I love exploring the intersection of creativity and technology, and when I'm not coding, you can find me sketching or brainstorming new digital marketing ideas!
-
 ---
 
 ✨ Let's build something incredible together! ✨
